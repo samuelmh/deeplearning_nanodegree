@@ -1,5 +1,6 @@
 
 *.ipynb_checkpoints
+deep-learning
 
 01/style_transfer
 01/flappybird
